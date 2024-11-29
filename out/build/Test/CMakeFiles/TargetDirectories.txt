@@ -1,0 +1,5 @@
+C:/Users/KkangJun/Desktop/Project/DigitalClock/out/build/Test/CMakeFiles/DigitalClock.dir
+C:/Users/KkangJun/Desktop/Project/DigitalClock/out/build/Test/CMakeFiles/edit_cache.dir
+C:/Users/KkangJun/Desktop/Project/DigitalClock/out/build/Test/CMakeFiles/rebuild_cache.dir
+C:/Users/KkangJun/Desktop/Project/DigitalClock/out/build/Test/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/KkangJun/Desktop/Project/DigitalClock/out/build/Test/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir

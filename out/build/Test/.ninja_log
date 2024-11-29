@@ -1,0 +1,24 @@
+# ninja log v5
+8	444	7433339132860768	CMakeFiles/DigitalClock.dir/Core/Src/stm32f4xx_it.c.obj	f7b9b3fd23cbbaf0
+11	460	7433339133024316	CMakeFiles/DigitalClock.dir/Core/Src/stm32f4xx_hal_msp.c.obj	f9a9d77eeb70dbfb
+76	543	7433339133741884	CMakeFiles/DigitalClock.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	13bf9c4affe3677b
+4	492	7433339133265614	CMakeFiles/DigitalClock.dir/Core/Src/main.c.obj	8bea33dffbf01e00
+37	532	7433339133438901	CMakeFiles/DigitalClock.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj	6049cc39eb09ffc0
+25	542	7433339133636551	CMakeFiles/DigitalClock.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	cbd6bfdc0edea7a2
+18	542	7433339133761936	CMakeFiles/DigitalClock.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj	c483630a5ca72fb8
+29	544	7433339133496193	CMakeFiles/DigitalClock.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	99879dbe70f86d62
+21	559	7433339134014447	CMakeFiles/DigitalClock.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	4cc5e4cab5e1d319
+33	562	7433339134114715	CMakeFiles/DigitalClock.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj	95b52123df421f3a
+41	569	7433339134181160	CMakeFiles/DigitalClock.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj	da30fd369aeb0319
+70	570	7433339134191166	CMakeFiles/DigitalClock.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	cc8cb265ed3273d3
+66	570	7433339134211221	CMakeFiles/DigitalClock.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj	2dc5f4dee12ee6a0
+46	610	7433339134647776	CMakeFiles/DigitalClock.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	fa543d49f78df5d1
+51	573	7433339134211221	CMakeFiles/DigitalClock.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj	bbe235e584cd9c70
+55	574	7433339134241293	CMakeFiles/DigitalClock.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj	e41d7abe1d6b2825
+60	598	7433339134513592	CMakeFiles/DigitalClock.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	ee7458f185001d6
+532	618	7433339134743561	CMakeFiles/DigitalClock.dir/startup_stm32f407xx.s.obj	a1a1cfcddcc94da1
+460	638	7433339134949204	CMakeFiles/DigitalClock.dir/Core/Src/sysmem.c.obj	23e4a1d228ead8a8
+14	655	7433339135107669	CMakeFiles/DigitalClock.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj	7ab3dc69741ef7b3
+492	688	7433339135452479	CMakeFiles/DigitalClock.dir/Core/Src/syscalls.c.obj	e12235ba1a98afe5
+445	714	7433339135694100	CMakeFiles/DigitalClock.dir/Core/Src/system_stm32f4xx.c.obj	c3c580299f549072
+2	21	0	C:/Users/KkangJun/Desktop/Project/DigitalClock/out/build/Test/CMakeFiles/cmake.verify_globs	e6ab92067304006c

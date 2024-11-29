@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "*.css": "css",
+    "stm32f4xx_hal.h": "c",
+    "7seg.h": "c",
+    "_switch.h": "c",
+    "main.h": "c",
+    "_stopwatch.h": "c",
+    "_macro.h": "c",
+    "_clock.h": "c",
+    "clcd.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
